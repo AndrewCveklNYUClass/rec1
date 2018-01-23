@@ -20,5 +20,5 @@
 
 void main() {
     /* similar to System.out.printf */  
-    printf("Hello CSO. My name is Andrew Cvekl \n");
+    printf("Hello CSO. My name is Andrew Cvekl");
 }
